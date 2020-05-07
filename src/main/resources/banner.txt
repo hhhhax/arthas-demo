@@ -1,0 +1,11 @@
+${AnsiColor.YELLOW}Hello,Welcome to hope-boot...${AnsiColor.RED}Sprin${AnsiColor.BRIGHT_YELLOW}gBoot的${AnsiColor.BRIGHT_GREEN}版本号:${AnsiColor.RED}${AnsiColor.MAGENTA} ${spring-boot.formatted-version} ${AnsiColor.BRIGHT_YELLOW}
+                       _                            _                       _           _
+                      (_)                          | |                     | |         | |                              ${AnsiColor.YELLOW}
+  ___   _ __    _ __   _   _ __     __ _   ______  | |__     ___     ___   | |_      __| |   ___   _ __ ___     ___     ${AnsiColor.BRIGHT_GREEN}
+ / __| | '_ \  | '__| | | | '_ \   / _` | |______| | '_ \   / _ \   / _ \  | __|    / _` |  / _ \ | '_ ` _ \   / _ \    ${AnsiColor.BRIGHT_CYAN}
+ \__ \ | |_) | | |    | | | | | | | (_| |          | |_) | | (_) | | (_) | | |_    | (_| | |  __/ | | | | | | | (_) |   ${AnsiColor.BLUE}
+ |___/ | .__/  |_|    |_| |_| |_|  \__, |          |_.__/   \___/   \___/   \__|    \__,_|  \___| |_| |_| |_|  \___/    ${AnsiColor.MAGENTA}
+
+
+${AnsiColor.MAGENTA}2019年，祝每一个努力的人都有所收获。人生路上，泪水在左，欢笑在右，生命的鲜花铺满两旁。走过生命的四季，我们经历了泪水的洗礼，见证了欢笑的时刻，欣赏着朝阳的升起，凝视着花蕊的绽放。人生途中，我们收获着生命之神不尽的惠赠，满揣着她的礼物与祝福启程。一路走来，因为收获，我们不曾寒冷，我们从未孤独。
+${AnsiColor.DEFAULT}
